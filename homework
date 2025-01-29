@@ -1,0 +1,22 @@
+from turtle import Screen
+import pgzrun
+from random import randint
+
+HEIGHT = 200
+WIDTH = 200
+
+def draw():
+
+    r = 100
+    g = 111
+    b = 120 
+
+    width = WIDTH
+    hight = HEIGHT
+    
+    for i in range():
+        rect = rect((0,0) , (width,hight))
+        rect.center = 150,150
+        Screen.draw.rect(rect , (r,g,b))
+
+pgzrun.go
